@@ -8,7 +8,7 @@ This is a new version of NOVO's website, which I redesigned earlier.
 >>(if you encounter errors related to broken CSS, I recommend refreshing the site page with the Shift key pressed (i.e., clearing the browser cache).
 >
 >
->>Open the website to verify your password and log in to it config.inc.php , he's the "password". Or there is no parrol, then in login.php and register.php my way to connect to PDO is to install half a page, just quotes, example: $pdo = new PDO('mysql:host=localhost;dbname=novo', 'root', ");
+>>Open the website to verify your password and log in to it config.inc.php , he's the "password". Or there is no password, then in login.php and register.php my way to connect to PDO is to install half a page, just quotes, example: $pdo = new PDO('mysql:host=localhost;dbname=novo', 'root', ");
 
 
 
